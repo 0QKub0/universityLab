@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+nav,footer,header{display: block;}
+
+body{
+    height: 100%;
+    width: 70%;
+    font-size: 100%;
+    line-height: 30px;
+    font-size: 19px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+}
+
+img{
+    width: 920px;
+    height: 1380px;
+}
+
+span{
+    font-style: italic;
+    font-weight: 600;
+}
+
+li{margin-bottom: 7px;}
+
+ul{margin-top: 10px;}
+
+h1,h2,h3{ 
+    font-weight: 700;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+h3{font-size: 20px;}
+
+article{margin: 20px 0px 10px 0px;}
+
+.menu{margin: 10px 0px 0px 0px;}
+
+a{
+    color:grey;
+    text-decoration: none;
+}
